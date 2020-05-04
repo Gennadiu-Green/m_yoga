@@ -1,0 +1,184 @@
+<!-- Сообщаем браузеру как стоит обрабатывать эту страницу -->
+<!DOCTYPE html>
+<!-- Оболочка документа, указываем язык содержимого -->
+<html lang="ua">
+	<!-- Заголовок страницы, контейнер для других важных данных (не отображается) -->
+	<head>
+		<!-- Заголовок страницы в браузере -->
+		<title>Аюверда </title>
+		<!-- Подключаем CSS -->
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/normalize.css">
+		<!-- Кодировка страницы -->
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+		<!-- Адаптивність -->
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<!-- Отображаемое тело страницы -->
+	<body>
+		<!-- header -->
+		<div class="block-6">
+			<div class="block-6__title-list title-list">
+				<h2 class="block-6__title">
+					Що таке аюрведа?
+				</h2>
+				<img src="img/Фигура_1_копия_17.png" alt="img/Фигура_1_копия_17.png" class="block-6__decor">
+			</div>
+			<p class="block-6__text">
+				Аюрведа - це найдавніша медична наука в світі, колосальна технологія відновлення сил, краси та здоров'я. Вона зародилася на півдні Індії 5000 років тому і зараз широко поширилася по світу.<br><br>
+
+				Аюрведа останнім часом стрімко набирає популярність на Україне і в усьому світі.<br>
+				Аюрведа лікує весь організм в цілому, відновлює порушений баланс між його частинами, видаляючи саму причину хвороби. Мета аюрведического методу лікування - зміцнення імунної системи організму, профілактика і лікування захворювань за допомогою натуральних ліків, які не мають побічних ефектів.
+			</p>
+			<p class="block-6__programa">
+				Программа аюрведы на 5 дней, 7 дней или 12 дней:
+			</p>
+			<div class="block-6__block-list">
+				<div class="block-6__item">
+					<img src="img/1.png" alt="img/1.png" class="block-6__img">
+					<p class="block-6__list">
+						індивідуальна консультація лікаря-аювредіста
+						з перекладом на українську мову, індивідуальне
+						спостереження за курсом лікування лікарем-аюрведистів
+					</p>
+				</div>
+				<div class="block-6__item">
+					<img src="img/2.jpg" alt="img/2.jpg" class="block-6__img">
+					<p class="block-6__list">
+						масляний масаж всього тіла щодня
+ 						(60 хвилин) в 2 руки або в 4 руки
+					</p>
+				</div>
+				<div class="block-6__item">
+					<img src="img/3.jpg" alt="img/3.jpg" class="block-6__img">
+					<p class="block-6__list">
+						дві аюрведичні процедури щодня
+						за Вашим індивідуальним курсом лікування
+					</p>
+				</div>
+				<div class="block-6__item">
+					<img src="img/4_(1).jpg" alt="img/4_(1).jpg" class="block-6__img">
+					<p class="block-6__list">
+						всі медичні препарати і масла в ході
+						процедур, одяг для процедур
+					</p>
+				</div>
+				<div class="block-6__item">
+					<img src="img/5.jpg" alt="img/5.jpg" class="block-6__img">
+					<p class="block-6__list">
+						підсумкова консультація лікаря-аюрведистів
+						з планом продовження прийому препаратів будинку,
+						рекомендацій по дієті
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="block-7">
+			<div class="block-7__fon">
+				<div class="block-7__fotograp">
+				<img src="img/4LBocmfAmK0.png" alt="img/4LBocmfAmK0.png" class="block-7__foto1 block-7__foto">
+				<img src="img/9BGTGkUKVnQ.png" alt="img/9BGTGkUKVnQ.png" class="block-7__foto2 block-7__foto">
+				<img src="img/DSC00794_filtered.png" alt="img/DSC00794_filtered.png" class="block-7__foto3 block-7__foto">
+				<img src="img/NIVV7HIh6UQ.png" alt="img/NIVV7HIh6UQ.png" class="block-7__foto4 block-7__foto">
+				<img src="img/RmI7QlB0Ehg.png" alt="img/RmI7QlB0Ehg.png" class="block-7__foto5 block-7__foto">
+				<img src="img/YNh6krLh61o.png" alt="img/YNh6krLh61o.png" class="block-7__foto6 block-7__foto">
+				<img src="img/z_0ddb5142.png" alt="img/z_0ddb5142.png" class="block-7__foto7 block-7__foto">
+				<img src="img/z_3bcbdfcb.png" alt="img/z_3bcbdfcb.png" class="block-7__foto8 block-7__foto">
+				<img src="img/z_3f5e1e21.png" alt="img/z_3f5e1e21.png" class="block-7__foto9 block-7__foto">
+				<img src="img/z_8ff9479f.png" alt="img/z_8ff9479f.png" class="block-7__foto10 block-7__foto">
+				<img src="img/z_16ed2a06.png" alt="img/z_16ed2a06.png" class="block-7__foto11 block-7__foto">
+				<img src="img/z_714a315b.png" alt="img/z_714a315b.png" class="block-7__foto12 block-7__foto">
+			</div>
+			<div class="block-7__content">
+				<div class="block-7__title">
+					<h3 class="block-7__h3">
+						Аюрведичний центр
+					</h3>
+					<p class="block-7__adress">					
+						Індія, штат Керала, місто Варкала
+					</p>
+				</div>
+				<p class="block-7__text">	
+					Ми будемо жити не просто в готелі, а в спеціалізованому аюрведичній центрі «Алісера». Тут все проходять лікування або займаються йогою - це тихе і закрите для сторонніх відпочиваючих людей містечко.<br>
+					Центр знаходиться на першій пляжної лінії в зеленому і спокійному місці, віддалік від галасливих барів і магазинів.<br>
+					Цей аюрведичний центр вже 5 років адмініструють україські фахівці - це значить, що вони намагаються забезпечити сервіс на рівні, звичному українському туристу. Вас не шокує бруд і антисанітарія Індії, якій багато хто боїться, що не буде непорозумінь з персоналом, їжа буде адаптована для звичного смаку українського туриста і т.д. У центрі постійно є перекладач з англійської на українську мову. Відпочивають тут в основному гості з України - тому завжди можна знайти цікаве спілкування, якщо ви приїхали один або маленькою компанією.
+				</p>
+				<div class="block-7__list">
+					<div class="block-7__list1">
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							кімнати категорії «стандарт» і «підвищеної комфортності» з санвузлом і гарячою водою
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							власна територія з пальмами, гамаками і зонами 	для відпочинку
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							басейн
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							критий зал для йоги
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							вегетаріанське аюрведічеськоє кафе
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							аюрведические кабінети
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							власний пляж
+						</a>
+					</div>
+					<div class="block-7__list2">
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							Wi-Fi на всій території безкоштовно
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							українськомовний адміністратор
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							туристичний офіс - квитки, екскурсії і т.д.
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							цілодобово лікар
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							оренда скутерів
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							замовлення таксі
+						</a>
+						<br>
+						<a href="#" class="block-7__item">
+							<img src="img/logo_копия.png" alt="img/logo_копия.png">
+							сейф
+						</a>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</body>
+</html>
